@@ -3,8 +3,8 @@
 เวอร์ชันแรกของแพลตฟอร์ม SIXTEEN CURRENCY (Wallet-only, read-only) — ไม่เกี่ยวข้องกับระบบเดิม
 
 ## Preview
-- GitHub Pages (เมื่อ deploy แล้ว): https://jin1963.github.io/SixteenSuperWallet/sixteen-currency-v1/
-- Source: https://github.com/jin1963/SixteenSuperWallet/tree/main/sixteen-currency-v1
+- GitHub Pages (เมื่อ deploy แล้ว): https://sixteeninter-ux.github.io/SixteenSuperWallet/sixteen-currency-v1/
+- Source: https://github.com/sixteeninter-ux/SixteenSuperWallet/tree/main/sixteen-currency-v1
 
 ## Files
 - `index.html` — standalone single-file site; includes CSS, config and JavaScript, no build process or database required.
