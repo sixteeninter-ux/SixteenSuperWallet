@@ -28,7 +28,7 @@ All integrated staking and reward panels are **read-only**. No token approval, t
 7. Only after successful tests, coordinate deployment on the new `app.sixteeninter.com` subdomain with the server administrator.
 
 ## GitHub copy instructions (when the source and destination accounts differ)
-1. Open the preview source file: https://github.com/jin1963/SixteenSuperWallet/blob/main/sixteen-currency-integrated-v2/index.html
+1. Open the preview source file: https://github.com/sixteeninter-ux/SixteenSuperWallet/blob/main/sixteen-currency-integrated-v2/index.html
 2. Use the **Raw** or **Download raw file** control to save `index.html` locally.
 3. Open `https://github.com/sixteeninter-ux/SixteenSuperWallet`, choose **Add file → Upload files** on the `main` branch and upload the file to a new directory named `sixteen-currency-integrated-v2`. If the web UI does not support placing it in a new folder directly, use **Add file → Create new file**, enter `sixteen-currency-integrated-v2/index.html`, and paste the complete source.
 4. Commit the new file and preview it using GitHub Pages. Keep all existing folders untouched.
