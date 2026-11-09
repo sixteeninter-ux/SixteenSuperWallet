@@ -1,10 +1,10 @@
 # SIXTEEN CURRENCY V3 — Premium Black & Gold (Preview)
 
 ## Preview
-https://jin1963.github.io/SixteenSuperWallet/sixteen-currency-premium-v3/
+https://sixteeninter-ux.github.io/SixteenSuperWallet/sixteen-currency-premium-v3/
 
 ## Source
-https://github.com/jin1963/SixteenSuperWallet/blob/main/sixteen-currency-premium-v3/index.html
+https://github.com/sixteeninter-ux/SixteenSuperWallet/blob/main/sixteen-currency-premium-v3/index.html
 
 ## Design
 - Preserves the original SIXTEEN CURRENCY black-and-gold hero, S emblem, header, wallet connection modal, and ecosystem cards.
