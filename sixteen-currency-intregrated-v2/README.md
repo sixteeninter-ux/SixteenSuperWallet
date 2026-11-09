@@ -3,7 +3,7 @@
 This is an **isolated preview**, not a replacement for any existing production DApp.
 
 ## Preview
-https://jin1963.github.io/SixteenSuperWallet/sixteen-currency-integrated-v2/
+https://sixteeninter-ux.github.io/SixteenSuperWallet/sixteen-currency-integrated-v2/
 
 ## What is integrated
 - Existing SIXTEEN CURRENCY black-and-gold UI and **one** MetaMask/TokenPocket wallet connection
